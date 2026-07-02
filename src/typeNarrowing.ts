@@ -54,9 +54,7 @@ function isServeOrder(item:ProductObj | string){
 }
 
 function isStringArray(array:unknown):array is string[]{
-    return (
-       
-    )
+  
 }
 
 type Fish = {
